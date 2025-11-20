@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/d4a0b991-5c38-41cb-9fa2-b92d38fba8e2)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-bhatt-1369a5265) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshalabhatt@gmail.com) 
 
